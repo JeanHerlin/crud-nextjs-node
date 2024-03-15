@@ -1,0 +1,3 @@
+database's name: student
+table's name: students( numEt:Int, nom:String, moyenne: float)
+run the server: npm run dev
